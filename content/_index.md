@@ -9,7 +9,7 @@ images:
 - images/pexels-photo-196666.jpeg
 ---
 
-# Hugo Portfolio with Lab.Works during education
+## Portfolio for Lab.Works
 
-* Getting Started
+* Start
   * [First Page](getting-started/first-page)

@@ -5,6 +5,6 @@ draft: false
 weight: 30
 ---
 
-# First Demo Page with Script
+# My First Demo Page
 
-Demo page which load a script for this page only.
+It will be continued.
