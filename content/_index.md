@@ -13,3 +13,4 @@ images:
 
 * Start
   * [First Page](getting-started/first-page)
+  * [Second Page](getting-started/secong-page.md)
