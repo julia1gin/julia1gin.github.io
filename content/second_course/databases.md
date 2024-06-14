@@ -28,3 +28,11 @@ weight: 30
 [Самостоятельная работа №3](https://git.herzen.spb.ru/1140094/databases_portfolio/tree/master/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963)
 
 [Самостоятельная работа №4](https://git.herzen.spb.ru/1140094/databases_portfolio/tree/master/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964)
+
+## Проект "Система электронного документооборота МЧС"
+
+[Отчет по проекту](https://docs.google.com/document/d/1K3AbxSi2NXAE2YsYBMzJE5l8piJN_LCW/edit?usp=sharing&ouid=100131985463279974398&rtpof=true&sd=true)
+
+[Презентация по проекту](https://drive.google.com/file/d/175GfsNVXxt9qI-QCz755Spuk1jeW7O2m/view?usp=sharing)
+
+[Ссылка на Github с исходным кодом](https://github.com/Kvazistam/herzen/tree/master/data_bases/Project_for_MCHS)
