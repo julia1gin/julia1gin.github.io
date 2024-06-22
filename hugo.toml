@@ -30,7 +30,7 @@ paginate     = 10
   
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Portfolio"
   keywords = "homepage, blog"
   images = [""]
 
