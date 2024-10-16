@@ -66,6 +66,10 @@ paginate     = 10
     name       = "2 курс"
     url        = "/second_course"
   [[menu.main]]
+    identifier = "3 курс"
+    name       = "3 курс"
+    url        = "/third_course"
+  [[menu.main]]
     identifier = "О себе"
     name       = "О себе"
     url        = "/about"
