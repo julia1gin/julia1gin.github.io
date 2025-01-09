@@ -41,4 +41,4 @@ weight: 30
 
 ### Лабораторная работа №9:
 
-[REST-сервис](https://github.com/julia1gin/prog-sem5-lr9)
+[REST-сервис с уровнями кешбэка](https://github.com/julia1gin/prog-sem5-lr9)
