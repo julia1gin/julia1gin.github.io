@@ -35,6 +35,8 @@ weight: 30
 
 ### Лабораторная работа №7:
 
+[Использование шаблона «Наблюдатель»](https://github.com/julia1gin/prog-sem5-lr7)
+
 ### Лабораторная работа №8:
 
 [Графики matplotlib в Google Colab](https://colab.research.google.com/drive/1I4g4_cgX60ck5cJSG20lL9r4Qtm6kzIb?usp=sharing)
