@@ -14,7 +14,7 @@ paginate     = 10
   homeSubtitle = "Сайт портфолио с работами за весь период обучения в РГПУ имени А.И.Герцена"
 
   # Set a background for the homepage
-  backgroundImage = "/images/background.jpg"
+  backgroundImage = "/images/background2.jpg"
 
   defaultTheme = "light"
 
@@ -31,11 +31,11 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "Portfolio"
-  keywords = "homepage, blog"
+  keywords = "homepage, portfolio"
   images = [""]
 
 [taxonomies]
-    category = "blog"
+    category = "portfolio"
     tag      = "tags"
     series   = "series"
 
@@ -69,6 +69,10 @@ paginate     = 10
     identifier = "3 курс"
     name       = "3 курс"
     url        = "/third_course"
+  [[menu.main]]
+    identifier = "4 курс"
+    name       = "4 курс"
+    url        = "/forth_course"
   [[menu.main]]
     identifier = "О себе"
     name       = "О себе"
