@@ -11,11 +11,12 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Сайт портфолио с работами за весь период обучения в РГПУ имени А.И.Герцена"
+  homeSubtitle = "Сайт портфолио с работами за весь период обучения в РГПУ имени А. И. Герцена"
 
   # Set a background for the homepage
   backgroundImage = "/images/background2.jpg"
 
+  enableThemeToggle = true
   defaultTheme = "light"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
@@ -25,7 +26,7 @@ paginate     = 10
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = false
+  enableGlobalLanguageMenu = true
 
   
 

@@ -5,16 +5,15 @@ draft: false
 weight: 30
 ---
 
-
 ## Лабораторные работы 3 семестра
 
+---
 
 ### Лабораторная работа №1:
 
 [1.1 Простая программа-калькулятор](https://replit.com/@IuliiaGiniiatul/LR111)
 
 [1.2 Игра "Угадай число" алгоритмом бинарного поиска](https://replit.com/@IuliiaGiniiatul/LR1121)
-
 
 ### Лабораторная работа №2:
 
@@ -68,13 +67,15 @@ weight: 30
 
 ## Лабораторные работы 4 семестра
 
+---
+
 [Лабораторная работа №1. Построение бинарного дерева](https://replit.com/@IuliiaGiniiatul/Binarytreelr1)
 
 [Лабораторная работа №2. Время выполнения функции построения бинарного дерева (и ее нерекурсивной версии)](https://replit.com/@IuliiaGiniiatul/lr2)
 
 [Лабораторная работа №3-4. Логирование](https://replit.com/@IuliiaGiniiatul/lr3#main.py)
 
-[Лабораторная работа №5. Параматризованный декоратор](https://replit.com/@IuliiaGiniiatul/lr5-1#main.py)
+[Лабораторная работа №5. Параметризованный декоратор](https://replit.com/@IuliiaGiniiatul/lr5-1#main.py)
 
 [Лабораторная работа №6. Информация по новым типам данных и изменениям](https://replit.com/@IuliiaGiniiatul/prog4-lr6)
 
