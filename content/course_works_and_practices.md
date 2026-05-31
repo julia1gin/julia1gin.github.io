@@ -7,15 +7,13 @@ weight: 30
 
 ### Курсовые работы
 
-![Исследование мощности в электрических цепях с использованием информационных технологий](files/course_works/course_work_1.pdf)
+[Исследование мощности в электрических цепях с использованием информационных технологий](https://docs.google.com/document/d/1na-VwrCAUSJI-Dh0jC2YOByDFjSlQSeHv6gFHFS0_9g/edit?usp=sharing)
 
-<iframe src="files/course_works/course_work_1.pdf" width="100%" height="600px"></iframe>
+[Моделирование 3D фракталов в программе Mandelbulb 3D](https://docs.google.com/document/d/1jj7Z9pB_BCirniwn9ghsb0ns_iGQs-_6GTPPRUJ-ktA/edit?usp=sharing)
 
-[Моделирование 3D фракталов в программе Mandelbulb 3D](files/course_works/course_work_2.pdf)
+[Использование программы KNIME для прогноза количества разводов в 2030 году](https://docs.google.com/document/d/1Awesm5DIA-nswQAmNaUI8hdCAZjggv6AEavcY2POmxk/edit?usp=drive_link)
 
-[Использование программы KNIME для прогноза количества разводов в 2030 году](files/course_works/course_work_3.pdf)
-
-[Разработка веб-портфолио студента на примере дисциплины “Программирование”](files/course_works/course_work_4.pdf)
+[Разработка веб-портфолио студента на примере дисциплины “Программирование”](https://docs.google.com/document/d/13X25GcSdzd1gLmToOv5jI_3YusSbDPlUsXQQ_IFMDOI/edit?usp=drive_link)
 
 
 ### Репозитории с заданиями практик

@@ -5,9 +5,15 @@ draft: false
 weight: 30
 ---
 
-## Матрицы
-- [ИСР Задание 1](https://drive.google.com/file/d/1L14C9SeUVeqssDabuKTivzqiVj39Tu1j/view?usp=sharing)
-- [ИСР Письменное домашнее задание](https://drive.google.com/file/d/1IkF6gMlzFXNXcOZS-u5YCT2t9RRVCILT/view?usp=sharing)
-- [ВСР Задание 1.1.1](https://docs.google.com/document/d/10FgtGcg4-uIZUkNK6N6LLjsQKoKkqUm9J7jbrGzNn74/edit?usp=sharing)
-- [ВСР Задание 1.1.3](https://docs.google.com/document/d/1FL7fgEM-_Fh_ma1IM6FiA_kfx2v4wnXh0iaKHcrACr8/edit?usp=sharing)
-- [ВСР Задание 1.1.8](https://docs.google.com/document/d/10sE5VGUkaC8xthZjCqYpLsZu04yQkuYWTQrjzRoJQCw/edit?usp=sharing )
+Ниже расположены ссылки на папки с выполненными заданиями по 5 темам, расмотренным в рамках
+этой дисциплины.
+
+[Теория матриц](https://drive.google.com/drive/folders/14lVnyPZChOJpgmznAePxRlVM9cWcOBIQ?usp=drive_link)
+
+[Определители](https://drive.google.com/drive/folders/1CCLSXn7XosNeIqwgXF6PFNw_UQFOLsXS?usp=drive_link)
+
+[Ранг матрицы](https://drive.google.com/drive/folders/1mKmuBzrqkmnFY3pFD69x5tVHb_BOBhOV?usp=drive_link)
+
+[Обратная матрица](https://drive.google.com/drive/folders/1NYfP3UMVLJmj8U-y-78cAkcEWSdSCgaL?usp=drive_link)
+
+[СЛАУ](https://drive.google.com/drive/folders/1XwOCJfQ6166L9RWjtRMKWKDT2QrRn9-r?usp=drive_link)

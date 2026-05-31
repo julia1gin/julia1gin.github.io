@@ -16,3 +16,11 @@ weight: 30
 ### Лабораторная работа №3:
 
 [Презентация и постер](https://www.overleaf.com/read/cftqmbgwqgsy#88839f)
+
+### Документация игры:
+
+[Game Design Document](https://www.overleaf.com/read/rrpdxcvmshqy#7daefe)
+
+[Software Requirements Specification](https://www.overleaf.com/read/nmhfbnsjxrxj#b9f702)
+
+[Software Design Document](https://www.overleaf.com/read/ymrrjcgbzkhq#2c835c)
