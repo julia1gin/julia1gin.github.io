@@ -75,6 +75,10 @@ paginate     = 10
     name       = "4 курс"
     url        = "/forth_course"
   [[menu.main]]
+    identifier = "Курсовые работы и практики"
+    name       = "Курсовые работы и практики"
+    url        = "/course_works_and_practices"
+  [[menu.main]]
     identifier = "О себе"
     name       = "О себе"
     url        = "/about"
