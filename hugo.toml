@@ -57,6 +57,9 @@ paginate     = 10
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+  [markup.goldmark.renderer]
+    unsafe = true
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "1 курс"

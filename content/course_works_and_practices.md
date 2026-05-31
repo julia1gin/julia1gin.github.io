@@ -7,7 +7,9 @@ weight: 30
 
 ### Курсовые работы
 
-[Исследование мощности в электрических цепях с использованием информационных технологий](files/course_works/course_work_1.pdf)
+![Исследование мощности в электрических цепях с использованием информационных технологий](files/course_works/course_work_1.pdf)
+
+<iframe src="files/course_works/course_work_1.pdf" width="100%" height="600px"></iframe>
 
 [Моделирование 3D фракталов в программе Mandelbulb 3D](files/course_works/course_work_2.pdf)
 
