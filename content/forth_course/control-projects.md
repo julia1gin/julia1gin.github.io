@@ -1,6 +1,5 @@
 ---
 title: "Управление программными проектами"
-date: 2024-02-11T15:26:15Z
 draft: false
 weight: 30
 ---
@@ -10,6 +9,6 @@ weight: 30
 
 [Репозиторий с документами](https://github.com/ArthurNyan/1cDocs/tree/master)
 
-А ниже можно найти саму конфгурацию 1С:
+А ниже можно найти саму конфигурацию 1С:
 
 [Папка с конфигурацией](https://drive.google.com/drive/folders/1F4l65c4qlu5s7OEi1T-aENiMNk4AFpwe?usp=sharing)
